@@ -48,3 +48,14 @@
 .user-component__list {
   margin-bottom: 25px;
 }
+.user-component--friends {
+  margin-bottom: 20px;
+}
+.user-component__status-text {
+  background-color: var(--violet);
+  color: var(--gold);
+  padding: 13px;
+  border-radius: 15px;
+  position: relative;
+  top: 5px;
+}
